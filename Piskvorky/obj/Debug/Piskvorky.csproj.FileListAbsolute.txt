@@ -1,0 +1,13 @@
+C:\Users\madmi\lmao\Piskvorky\Piskvorky\obj\Debug\Piskvorky.csproj.AssemblyReference.cache
+C:\Users\madmi\lmao\Piskvorky\Piskvorky\obj\Debug\Piskvorky.csproj.SuggestedBindingRedirects.cache
+C:\Users\madmi\lmao\Piskvorky\Piskvorky\obj\Debug\Piskvorky.Form1.resources
+C:\Users\madmi\lmao\Piskvorky\Piskvorky\obj\Debug\Piskvorky.Properties.Resources.resources
+C:\Users\madmi\lmao\Piskvorky\Piskvorky\obj\Debug\Piskvorky.csproj.GenerateResource.cache
+C:\Users\madmi\lmao\Piskvorky\Piskvorky\obj\Debug\Piskvorky.csproj.CoreCompileInputs.cache
+C:\Users\madmi\lmao\Piskvorky\Piskvorky\bin\Debug\Piskvorky.exe.config
+C:\Users\madmi\lmao\Piskvorky\Piskvorky\bin\Debug\Piskvorky.exe
+C:\Users\madmi\lmao\Piskvorky\Piskvorky\bin\Debug\Piskvorky.pdb
+C:\Users\madmi\lmao\Piskvorky\Piskvorky\obj\Debug\Piskvorky.exe
+C:\Users\madmi\lmao\Piskvorky\Piskvorky\obj\Debug\Piskvorky.pdb
+C:\Users\madmi\lmao\Piskvorky\Piskvorky\obj\Debug\Piskvorky.Start.resources
+C:\Users\madmi\lmao\Piskvorky\Piskvorky\obj\Debug\Piskvorky.Pripojeni.resources
